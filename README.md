@@ -1,6 +1,6 @@
 # ngMusic
 
-This angular 2 seed project makes use of Spotify API Endpoints to create a simple music search application. For Angular 2 starters, you will learn about the basics of page routing, two-way data binding with search form and angular 2 HTTP modules. I believe we learn best through actually building applications. Happy coding. 
+This angular 2 seed project makes use of Spotify API Endpoints to create a simple music search application. For Angular 2 starters, you will learn about the basics of page routing, two-way data binding with search form and angular 2 HTTP modules. I believe we learn best through actually building applications. Make sure you navigate to the project folder and type `npm install` before running the server.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
